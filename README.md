@@ -12,6 +12,6 @@
 
 Run Server.java
 
-    ```shell
+    ```
     javac Server.java
     java Server
